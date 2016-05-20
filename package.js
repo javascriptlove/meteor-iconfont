@@ -17,12 +17,12 @@ Package.registerBuildPlugin({
     npmDependencies: {
         'fs-extra':         '0.16.5',
         'lodash':           '2.4.1',
-        'MD5':              '1.2.1',
+        'md5':              '2.1.0',
         'svg2ttf':          '1.2.0',
         'svgicons2svgfont': '1.0.0',
         'temp':             '0.7.0',
         'ttf2eot':          '1.3.0',
-        'ttf2woff':         '1.2.0',
+        'ttf2woff':         '1.2.0'
     }
 });
 
